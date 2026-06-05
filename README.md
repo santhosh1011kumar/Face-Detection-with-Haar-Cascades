@@ -131,6 +131,7 @@ plt.show()
 ### EYE DETECTION :
 
 <img width="755" height="581" alt="Screenshot 2026-06-05 202550" src="https://github.com/user-attachments/assets/89cb8f63-7d65-48e2-ba74-1e84ee1bccab" />
+
 ## Result :
 
 Thus, to write a Python program using OpenCV to perform image manipulations for the given objectives is executed sucessfully.
